@@ -7,5 +7,5 @@ This project analyzes COVID-19 data to track trends in confirmed cases, deaths, 
 - 📊 Visualizations for country-wise trends.
 - 🛠 Data cleaning and preprocessing.
 
-## linraries used
+## library used
 - Python, Pandas, Matplotlib, Seaborn
